@@ -1,6 +1,3 @@
-//
-// Created by Alex Brodsky on 2024-03-10.
-//
 
 #include <assert.h>
 #include <stddef.h>
