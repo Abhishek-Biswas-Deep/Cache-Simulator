@@ -5,4 +5,4 @@
 ### Cache Simulator
 The simulator is designed to model different types of caches: direct mapped, set associative, and fully associative.
 
-**Feel free to contribute, use and enhance.**
+**Feel free to contribute.**
